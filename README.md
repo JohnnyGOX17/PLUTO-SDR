@@ -15,5 +15,6 @@ Repo for experiments with the ADI ADALM PLUTO SDR
 ## References
 
 * [Introduction to the ADALM-PLUTO SDR](https://youtu.be/05nLPVJW9Uo)
-* https://wiki.analog.com/university/tools/pluto
-  - https://wiki.analog.com/university/tools/pluto/device_drivers
+* [ADALM-PLUTO Overview](https://wiki.analog.com/university/tools/pluto)
+  - [Developers Wiki](https://wiki.analog.com/university/tools/pluto/developers): HW, FW, SW info and how to build/add base image
+    + [SW/Device Drivers](https://wiki.analog.com/university/tools/pluto/device_drivers)
